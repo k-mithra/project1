@@ -1,3 +1,3 @@
 # new project
 
-this project is created in local system
+this project is created in local system.
